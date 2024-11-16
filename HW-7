@@ -1,0 +1,13 @@
+</head>
+<body>
+<h1>нумерований список  тварин:</h1>
+<ol start="6">
+<li>кіт</li>
+<li>пес</li>
+<li>лев</li>
+<li>Ведмідь</li>
+<ol>
+<img src="https://imglife.pravda.com.ua/images/doc/1/a/1ad1f1a-kit-kishka-lapy.jpg" alt="photo" width="400px">
+<img  src=""alt="photo" width="400px">
+</body>
+</html>
